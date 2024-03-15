@@ -1,0 +1,20 @@
+<resources>
+    <style name="Base.Theme.NewsNow" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/purple</item>
+        <item name="android:statusBarColor">@color/purple</item>
+    </style>
+
+    <style name="Theme.NewsNow" parent="Base.Theme.NewsNow" />
+
+    <style name="App.Custom.Indicator" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/yellow</item>
+    </style>
+
+    <style name="splashScreenTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">
+            @drawable/splash_image
+        </item>
+        <item name="android:statusBarColor">#FEF6AA</item>
+    </style>
+</resources>

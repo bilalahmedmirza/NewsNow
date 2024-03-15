@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsNow</string>
+    <!-- Article Fragment -->
+    <string name="fabDesc">Button to save an article we like.</string>
+    <!-- Breaking News Fragment -->
+    <string name="headlines">Headlines</string>
+    <!-- Saved News Fragment -->
+    <string name="savedNews">Saved News</string>
+    <string name="savedNewsDeleteButton">Delete button to delete the article.</string>
+    <string name="deleteMethod">Swipe to delete the news!</string>
+    <!-- Search News Fragment -->
+    <string name="searchNews">Search News</string>
+    <!-- Item Article Preview Fragment -->
+    <string name="imageDesc">Image of the article.</string>
+    <string name="source">Source</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="dateTime">Date / Time</string>
+    <!-- Bottom Menu -->
+    <string name="title1">Breaking News</string>
+    <string name="title2">Saved News</string>
+    <string name="title3">Search News</string>
+</resources>
