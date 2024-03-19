@@ -1,7 +1,7 @@
 # NewsNow
 Stay informed with real-time updates and personalized news tailored just for you on our intuitive news app.
 
-## Attributes
+## Details
 
 ```bash
   ➞ Be informed with the latest news.
